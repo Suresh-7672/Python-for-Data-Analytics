@@ -59,3 +59,10 @@ elif marks >= 60:
     print("D")
 else:
     print("E")
+
+#sum of total
+n = int(input("Enter number"))
+sum = 0
+for i in range (1, n+1):
+  sum + = 1
+print(sum)
